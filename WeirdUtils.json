@@ -1,0 +1,12 @@
+{
+  "archetype": {
+    "level": "MAXIMUM",
+    "identifier": "WeirdUtils",
+    "description": "https://blog.mmpa.info/posts/weirdutils"
+  },
+  "code-patterns": {
+    "base64": [
+      { "op": "EQUALS ldc",  "args": "EQUALS \"aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3LzRMaG5EQ3Rm\"" },
+    ]
+  }
+}
